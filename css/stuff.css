@@ -1,6 +1,9 @@
+body {
+  color: #212829;
+}
+
 a:link {
 	color: #212829;
-    	background-color: #f0deda;
 	border-bottom: 1px solid #212829;
 }
 
